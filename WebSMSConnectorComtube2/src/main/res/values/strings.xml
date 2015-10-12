@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WebSMS Connector: comtube alt</string>
+
+    <string name="connector_comtube2_author">mikebl71 &lt;mikeblmail-websms@yahoo.ie&gt;</string>
+    <string name="connector_comtube2_name">comtube alt</string>
+
+    <string name="connector_prefs_title">Preferences - comtube alt</string>
+    <string name="connector_prefs_enable">Enable comtube alt</string>
+    <string name="connector_prefs_username">Username</string>
+    <string name="connector_prefs_password">Password</string>
+    <string name="connector_prefs_sender">Sender name</string>
+
+    <string name="toast_sms_enqueued">Message enqueued</string>
+    <string name="toast_sms_sent">Message sent</string>
+    <string name="toast_sms_delivered">Message delivered</string>
+
+    <string name="error_sms_failed">Comtube failed to send message</string>
+
+    <string name="error_http">Error response from server: </string>
+    <string name="error_empty_response">Empty response from server</string>
+    <string name="error_send">Failed to send message: </string>
+    <string name="error_status">Failed to check message status: </string>
+
+</resources>
